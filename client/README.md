@@ -9,7 +9,7 @@
   1. [Components](#components)
   1. [Stores](#stores)
 
-## Structure Over
+## Structure Overview
 
 ```
 	client:
