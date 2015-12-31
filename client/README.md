@@ -4,14 +4,14 @@
 
 ## Table of Contents
 	
-	1. [Structure Overview](#structure-overview)
-	1. [Actions](#actions)
-	1. [Components](#components)
-	1. [Stores](#stores)
+  1. [Structure Overview](#structure-overview)
+  1. [Actions](#actions)
+  1. [Components](#components)
+  1. [Stores](#stores)
 
 ## Structure Over
 
-	```
+```
 	client:
 		|
 		L Directory: 'actions'
@@ -41,7 +41,7 @@
 		| L Directory: Ex: 'StoreName'
 		|   |
 		|   L File: 'index.js'
-	```
+```
 
 **[⬆ back to top](#table-of-contents)**
 
